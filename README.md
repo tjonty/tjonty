@@ -9,7 +9,7 @@ I’m a passionate software engineer who thrives on turning complex challenges i
 ## 🌱 What I'm Learning
 I’m diving into **[Remix](https://remix.run)** and **[Next](https://nextjs.org)** to level up my frontend game and exploring **RAGs** to understand LLMs. Always chasing that next efficiency boost!
 
-## 👯 Looking to Collaborate On
+## 👥 Looking to Collaborate On
 Got a project with **Next**, **LLMs**, or some cutting-edge web tech? Open source projects that focus on performance optimization and scalable system? I’m your guy—let’s team up and create something epic!
 
 ## 🤔 I Could Use Some Help With
