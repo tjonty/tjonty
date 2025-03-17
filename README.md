@@ -4,7 +4,8 @@ I’m a passionate software engineer who thrives on turning complex challenges i
 
 ## 🔭 What I'm Currently Working On
 - At **[Influxer](https://influxermerch.com)**, I’m enhancing a platform that serves 40K+ student-athletes. Think internal portal upgrades and website magic—streamlining efficiency and boosting engagement one line of code at a time.
-- My personal project **1.** - a sleek single-page app to organize all your important links (more details coming soon!)
+- Making why way in LLM, AI and React-Native through TrueTranslate (DM to get more details and collab) 
+- Recently completed my personal project **1.** - a sleek single-page app to organize all your important links. [here](https://onepoint.it.com/tjonty23)
   
 ## 🌱 What I'm Learning
 I’m diving into **[Remix](https://remix.run)** and **[Next](https://nextjs.org)** to level up my frontend game and exploring **RAGs** to understand LLMs. Always chasing that next efficiency boost!
@@ -19,17 +20,16 @@ I’m diving into Artificial Intelligence, especially natural language processin
 Scalable full-stack systems, performance hacks, or thriving in the tech community—I’m always down for a good tech chat!
 
 ## 📫 How to Reach Me
+- **One for all**: [jontytejani](https://onepoint.it.com/tjonty23)
 - **Email**: [JontyTejani@gmail.com](mailto:JontyTejani@gmail.com)  
-- **LinkedIn**: [linkedin.com/jontytejani](https://linkedin.com/jontytejani)  
-- **Website**: [jontytejani.com](https://jontytejani.com)  
 
 ## 🏗️ Recent Projects
 - **Influxer Website Revamp**: Reworked it with **Remix** and **[React](https://react.dev)**, slashing load times and spiking orders by 30%.  
 - **Product Recommendation System**: Built a smart suggestion engine that bumped sales by 25%—personalization FTW!
-- **Svelte-learning**: Already built a Todo app in Svelte to tackle its learning curve and currently building "1."!
+- **One Point**: One Page. All Your Links. Zero Clutter. [Checkout here](https://onepoint.it.com)  
 
 ## 🛠️ My Tech Stack
-- **Frontend**: React.js, Remix, TypeScript, Tailwind CSS  
+- **Frontend**: React.js, Remix, Svelte, TypeScript, Tailwind CSS, Three.js
 - **Backend**: Node.js, Django, Express.js, Go, REST, GraphQL  
 - **Databases**: MySQL, MongoDB, Redis  
 - **DevOps**: AWS, Docker, Kubernetes, Shopify  
