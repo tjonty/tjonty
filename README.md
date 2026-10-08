@@ -1,53 +1,38 @@
-# 👋 Hey there! I'm Jonty Tejani
+# Jonty Tejani
 
-I’m a passionate software engineer who thrives on turning complex challenges into sleek, impactful solutions. Full-stack development is my playground—whether it’s optimizing performance or crafting user-friendly apps, I’m all in!
+Backend engineer working on distributed systems in Go. Currently at Dialogica,
+building multi-tenant notification infrastructure on NATS JetStream and the
+routing layer that keeps LLM requests flowing when a provider goes down.
 
-## 🔭 What I'm Currently Working On
-- At **[Influxer](https://influxermerch.com)**, I’m enhancing a platform that serves 40K+ student-athletes. Think internal portal upgrades and website magic—streamlining efficiency and boosting engagement one line of code at a time.
-- Making why way in LLM, AI and React-Native through TrueTranslate (DM to get more details and collab) 
-- Recently completed my personal project **1.** - a sleek single-page app to organize all your important links. [here](https://onepoint.it.com/tjonty23)
-  
-## 🌱 What I'm Learning
-I’m diving into **[Remix](https://remix.run)** and **[Next](https://nextjs.org)** to level up my frontend game and exploring **RAGs** to understand LLMs. Always chasing that next efficiency boost!
+Most of what I build is in private company repos, so this profile is the
+smaller half of the picture.
 
-## 👥 Looking to Collaborate On
-Got a project with **Next**, **LLMs**, or some cutting-edge web tech? Open source projects that focus on performance optimization and scalable system? I’m your guy—let’s team up and create something epic!
+## What I work on
 
-## 🤔 I Could Use Some Help With
-I’m diving into Artificial Intelligence, especially natural language processing. Got tips on building or refining AI agents? Hit me up!
+- **Event-driven backends in Go.** NATS JetStream, durable consumers,
+  partitioned FIFO delivery, Watermill, Gin.
+- **Correctness under failure.** Idempotency, message ordering, distributed
+  locking, atomic claims under contention.
+- **Postgres.** Schema and migration design, sqlc, query optimization.
+- **LLM infrastructure.** Routing and failover across OpenAI, Claude and
+  Gemini, including mid-stream failover before the first token reaches a
+  client.
 
-## 💬 Ask Me About
-Scalable full-stack systems, performance hacks, or thriving in the tech community—I’m always down for a good tech chat!
+## Previously
 
-## 📫 How to Reach Me
+At **[Influxer](https://influxermerch.com)** I rebuilt the commerce backend
+into Go and Python services and led the site redesign in Remix for a platform
+serving 50K+ student-athletes and 500K+ SKUs.
+
+## Stack
+
+Go, Node.js, Python, TypeScript · PostgreSQL, Redis, MongoDB · NATS JetStream ·
+React, Remix · AWS, Azure, Docker · GitHub Actions
+
+## Reach me
+
 - **One for all**: [jontytejani](https://onepoint.it.com/tjonty23)
-- **Email**: [JontyTejani@gmail.com](mailto:JontyTejani@gmail.com)  
-
-## 🏗️ Recent Projects
-- **Influxer Website Revamp**: Reworked it with **Remix** and **[React](https://react.dev)**, slashing load times and spiking orders by 30%.  
-- **Product Recommendation System**: Built a smart suggestion engine that bumped sales by 25%—personalization FTW!
-- **One Point**: One Page. All Your Links. Zero Clutter. [Checkout here](https://onepoint.it.com)  
-
-## 🛠️ My Tech Stack
-- **Frontend**: React.js, Remix, Svelte, TypeScript, Tailwind CSS, Three.js
-- **Backend**: Node.js, Django, Express.js, Go, REST, GraphQL  
-- **Databases**: MySQL, MongoDB, Redis  
-- **DevOps**: AWS, Docker, Kubernetes, Shopify  
-
-## 🌐 Community Involvement
-I’m active in tech forums and love hitting up local meetups—sharing knowledge and soaking up inspiration from fellow coders.
+- **Site**: [jontytejani.com](https://jontytejani.com)
+- **Email**: [JontyTejani@gmail.com](mailto:JontyTejani@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-Let's%20Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jontytejani)
-
-## ⚡ Fun Fact
-I’m currently reading Can’t Hurt Me by David Goggins—absorbing lessons on mental toughness!
-
-## 👀 Profile Views
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=tjonty&&style=flat-square&color=58A6FF" align="center" />
-
-<a href="https://github.com/tjonty/" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Visit-Again-green?style=flat-square" align="center"/>
-</a>
-</div>
-
